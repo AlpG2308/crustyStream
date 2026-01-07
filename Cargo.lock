@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "ring_buffer"
+name = "crustyStream"
 version = "0.1.0"
